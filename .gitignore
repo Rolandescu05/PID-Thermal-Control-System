@@ -1,0 +1,16 @@
+applet/
+*.txt
+*.elf
+*.bin
+*.eep
+*.hex
+*.lss
+*.map
+*.nm
+*.sym
+*.o
+*.a
+
+build/
+bin/
+layout.txt
